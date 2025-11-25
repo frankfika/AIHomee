@@ -1,0 +1,7 @@
+{
+  "name": "AIHomme",
+  "description": "Intelligent meeting recorder and summarizer powered by Gemini. Records audio, transcribes, summarizes, and organizes your meetings with AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
